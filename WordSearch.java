@@ -1,6 +1,5 @@
 // programmer:  Jonathan Hill
 // 3/11/22
-// Assignment 1
 // Purpose:  The purpose of this program is to create a crossword puzzle.
 // The program will ask you to create a "word generator" by selecting g
 // If you try to produce a word generator without entering in strings then
